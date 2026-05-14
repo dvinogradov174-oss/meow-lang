@@ -1,4 +1,4 @@
-# meow-lang
+# meow-lang (v0.1 beta)
 ### meow is a programming language about cats! (;
 
 ---

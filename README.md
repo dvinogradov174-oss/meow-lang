@@ -13,5 +13,5 @@
 
 ---
 
-# Support ❤️
+## Support ❤️
 You can *easily* support meow! Just *star* this repository and you'll make me **REALLY HAPPY**! :D
